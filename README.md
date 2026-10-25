@@ -28,11 +28,14 @@ Rotary Encoder: for volume and mute/unmute
 4 Buttons: for media control 
 Oled: for status indicator
 
-<h1>BOM:</h1>
-4x MX-Style Switches
-4x white blank DSA keycaps
-1x EC11E Rotary encoders (with switch!)
-1x 0.91 inch OLED display
-4x M3x16mm screws
-1x unsoldered Seeed XIAO RP2040
-1x Case (2 3d printed parts)
+### 📦 Bill of Materials (BOM)
+
+| Component | Quantity | Description |
+| :--- | :---: | :--- |
+| MX-Style Switches | 4x | Mechanical switches for the main keys |
+| DSA Keycaps | 4x | White blank DSA profile keycaps |
+| EC11 Rotary Encoder | 1x | Rotary encoder with integrated push switch |
+| OLED Display | 1x | 0.91-inch I2C OLED display |
+| M3 Screws | 4x | M3 x 16mm screws for the sandwich case |
+| Microcontroller | 1x | Seeed Studio XIAO RP2040 (unsoldered) |
+| Case | 1x | Custom 3D printed sandwich case (2 parts) |
