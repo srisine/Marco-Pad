@@ -17,9 +17,19 @@ Not the most perfect pcb but still i managed to build smtn in KiCAD
 Then i build an enclosure in Fusion 360 (First time ever)
 
 <h1>CAD</h1>
+
+<h2>V1</h2>
 <img width="1015" height="729" alt="image" src="https://github.com/user-attachments/assets/a8c1e023-2be6-4375-987e-0d8f32f93c74" />
 
 <img width="843" height="223" alt="image" src="https://github.com/user-attachments/assets/aa9bfba8-7d8f-43da-9735-c668819dc38d" />
+
+<h2>V2</h2>
+
+<img width="1920" height="722" alt="e6a9461e-dc8a-4ffe-8fda-f56303a07daf" src="https://github.com/user-attachments/assets/208cdf54-c4f0-4394-b9db-a8246425c438" />
+
+<img width="1920" height="722" alt="49020a08-2915-4a54-be08-6de36561d586" src="https://github.com/user-attachments/assets/9cdd7e26-24fc-4860-8159-4dbbfd4b4868" />
+
+<img width="1920" height="722" alt="Render_2026-Oct-26_10-58-21AM-000_CustomizedView20744086169" src="https://github.com/user-attachments/assets/6c15a1a2-cc40-4a64-8c65-551f02087174" />
 
 <h1>Firmware overview</h1>
 Then i used QMK to write a firmware
