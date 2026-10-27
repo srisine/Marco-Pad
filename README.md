@@ -37,6 +37,12 @@ Then i build an enclosure in Fusion 360 (First time ever)
 
 <img width="1920" height="722" alt="re" src="https://github.com/user-attachments/assets/168d2d23-c970-4368-a8b9-34a3448fa563" />
 
+<h2>V4(made screw threads big and fixed smtn)</h2>
+
+<img width="615" height="291" alt="Screenshot 2026-10-27 233959" src="https://github.com/user-attachments/assets/8541df5f-0d08-44f1-b175-ca21ba0826a4" />
+
+<img width="1920" height="722" alt="Serene_2026-Oct-27_06-03-33PM-000_CustomizedView36930585533" src="https://github.com/user-attachments/assets/e5e17884-be63-45a7-84eb-8814cfef3f2e" />
+
 <h1>Firmware overview</h1>
 Then i used QMK to write a firmware
 
